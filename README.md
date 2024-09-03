@@ -1,12 +1,14 @@
-## Hi there 👋
+## Hello everyone, welcome to my GitHub🤖!
+### My name is **Michael**!
+### I'm a Software Development and Networks & 5G Intern at John Deere, working on software projects for the team. I have been work with Python, TypeScript, and React.
 
 <!--
-**MichaelDouglas2010/MichaelDouglas2010** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**RGHSJZG/RGHSJZG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+- 🔭 I’m currently working on John Deere
+- 🌱 I’m currently learning language program
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
