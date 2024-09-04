@@ -1,18 +1,25 @@
 ## Hello everyone, welcome to my GitHub🤖!
 ### My name is **Michael**!
-### I'm a Software Development and Networks & 5G Intern at John Deere, working on software projects for the team. I have been work with Python, TypeScript, and React.
+**Sobre mim:**
 
-<!--
-**RGHSJZG/RGHSJZG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou um entusiasta de tecnologia com foco em desenvolvimento de software. Atualmente, trabalho como estagiário na John Deere, onde estou aprendendo e contribuindo para projetos incríveis.
 
-Here are some ideas to get you started:
+**Habilidades:**
 
-- 🔭 I’m currently working on John Deere
-- 🌱 I’m currently learning language program
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* **Linguagens:** Python, TypeScript, React
+* **Frameworks:** React, Node.js
+* **Ferramentas:** Git
+* **Cloud:** AWS
+
+**Interesses:**
+
+* Desenvolvimento web full-stack
+* Machine Learning
+* Automação de tarefas
+* Sistemas embarcados
+
+**Contato:**
+
+* **LinkedIn:** [www.linkedin.com/in/michael-douglas-]
+* **Email:** [michaeldouglasramos2010@gmail.com]
+
