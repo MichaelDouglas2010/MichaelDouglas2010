@@ -6,8 +6,8 @@ Sou um entusiasta de tecnologia com foco em desenvolvimento de software. Atualme
 
 **Habilidades:**
 
-* **Linguagens:** Python, TypeScript, JavaScript, React e C
-* **Frameworks:** React, Node.js
+* **Linguagens:** Python, TypeScript, JavaScript, React e Java
+* **Frameworks:** React, Node.js , Spring Boot
 * **Ferramentas:** Git
 * **Cloud:** AWS
 
